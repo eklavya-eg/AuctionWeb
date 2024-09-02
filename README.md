@@ -11,7 +11,7 @@ HOW TO RUN THE WEB APPLICATION
 7) create a file in the root directory name ".env"
 8) add this to the file
 "PORT=1267
-databaseUrl=mongodb+srv://lakshya404stc:Ayush%408595@cluster0.xamqbcs.mongodb.net/auctionweb
+databaseUrl=mongodb+srv://9810krishnastc:Eklavya%408595@cluster0.xamqbcs.mongodb.net/auctionweb
 JWT_secret = JKDWJD!@132980"
 9) now go to client folder and create a .env file
 10) add this to the file
